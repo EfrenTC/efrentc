@@ -9,6 +9,7 @@
 ---
 My biggest project: A social platform for gamers, GameScroll
 Users can rate, review, and discover new games, connect with other users, follow them, and much more. A full-stack web application.
+
 https://gamescroll.vercel.app/
 
 ---
