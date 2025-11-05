@@ -7,8 +7,13 @@
 ⚡ Fun fact: I also love video games, tech gadgets, and fitness.  
 
 ---
-My biggest project: A social platform for gamers, GameScroll
-Users can rate, review, and discover new games, connect with other users, follow them, and much more. A full-stack web application.
+My biggest project: GameScroll - A Social Hub for Gamers
+
+A full-stack web application where users can discover, rate, and review games while connecting with a community. Features include user profiles, social interactions (following/feeds), and a comprehensive game database.
+
+Explore the repositories for the complete implementation:
+
+https://github.com/orgs/GameScroll-Org/repositories
 
 https://gamescroll.vercel.app/
 
