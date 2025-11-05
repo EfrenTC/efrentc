@@ -7,7 +7,11 @@
 ⚡ Fun fact: I also love video games, tech gadgets, and fitness.  
 
 ---
+My biggest project: A social platform for gamers, GameScroll
+Users can rate, review, and discover new games, connect with other users, follow them, and much more. A full-stack web application.
+https://gamescroll.vercel.app/
 
+---
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=efrentc&label=Profile%20views&color=0e75b6&style=flat" alt="efrentc" /> 
 </p>
